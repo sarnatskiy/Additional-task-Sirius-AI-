@@ -9,3 +9,5 @@ https://www.kaggle.com/datasets/alexbenzik/deanonymized-995-pct-of-elliptic-tran
 
 Ethereum Fraud Detection Dataset (transaction_dataset):
 https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset
+
+Main notebook.ipynb - файл со всеми наработками по заданию
