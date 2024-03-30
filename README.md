@@ -7,5 +7,5 @@ https://www.kaggle.com/datasets/ellipticco/elliptic-data-set
 Деанонимизация датасета:
 https://www.kaggle.com/datasets/alexbenzik/deanonymized-995-pct-of-elliptic-transactions
 
-Ethereum Fraud Detection Dataset:
+Ethereum Fraud Detection Dataset (transaction_dataset):
 https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset
