@@ -11,3 +11,4 @@ Ethereum Fraud Detection Dataset (transaction_dataset):
 https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset
 
 Main notebook.ipynb - файл со всеми наработками по заданию
+res.txt - файл с результатами последних функций Main notebook
